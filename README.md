@@ -1,15 +1,15 @@
 # Pengalaman-Belajar
 
-22 Februari 2023
+**22 Februari 2023**  
+
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
-* Belajar tentang apa itu Java dan alasan menggunakannya.
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
 
-* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-* Belajar praktek membuat aplikasi dengan bahasa pemrograman
 
-23 Februari 2023
+**23 Februari 2023**  
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
